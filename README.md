@@ -1,3 +1,3 @@
-# WebView Ad Blocker
+# WebView
 
 WebView
